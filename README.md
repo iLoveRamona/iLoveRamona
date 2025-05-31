@@ -1,49 +1,75 @@
-## 🔧 Core Tech Stack
+# Никита Берюхов 
+### Go-разработчик | DevOps инженер | Спортивный программист
 
-- **Go/Golang**
-- **Gin Framework**
-- **Goorm IDE**
-- **PostgreSQL**
-- **Redis**
-- **Docker**
+[![Location](https://img.shields.io/badge/Тюмень-Россия-0088CC?style=flat&logo=map-marker)](https://www.google.com/maps/place/Тюмень)
+[![Telegram](https://img.shields.io/badge/Telegram-@nikoil-0088CC?style=flat&logo=telegram)](https://t.me/nikoil)
+[![Email](https://img.shields.io/badge/berukhov@gmail.com-005FF9?style=flat&logo=gmail)](mailto:berukhov@gmail.com)
+[![Phone](https://img.shields.io/badge/+7_(904)_876--95--21-008000?style=flat&logo=phone)](tel:+79048769521)
 
-<h2>Languages</h2>
+## 🚀 Обо мне
 
+Меня привлекает Go-разработка, потому что она сочетает:
+- Глубокие знания алгоритмов и структур данных
+- Создание высоконагруженных систем и микросервисов
+- Работу с облачными технологиями и DevOps-инструментами
+- Высокую производительность и эффективность
+
+## 🛠 Технологический стек
+
+### Основные технологии
 <div align="center">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Gin">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
-<h2>Frameworks & Libraries</h2>
+### Дополнительные навыки
+**Программирование:** C/C++, Python, Bash  
+**DevOps:** CI/CD (GitHub Actions), Docker Compose  
+**Сети:** TCP/IP, Cisco/Eltex/Huawei оборудование  
+**Другое:** GORM, Git, GNU/Linux, VMWare  
 
-<div align="center">
-  <img src="https://img.shields.io/badge/gin-%23000000.svg?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Gin" />
-  <img src="https://img.shields.io/badge/goorm-%23000000.svg?style=for-the-badge&logo=goorm&logoColor=00FF7F" alt="Goorm" />
-</div>
+## 🏆 PET-проекты
 
-<h2>Database</h2>
+### 🏥 Rest API записи на прием
+- Развертывание PostgreSQL в Docker
+- Go-приложение с REST API в контейнере
+- Оркестрация через Docker Compose
+- CI/CD Pipeline в GitHub Actions
+- Скрипты миграции БД
 
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=for-the-badge&logo=PostgreSQL&logoColor=00ADD8" alt="Gin" />
-  <img src="https://img.shields.io/badge/Redis-%23000000.svg?style=for-the-badge&logo=redis&logoColor=00FF7F" alt="Goorm" />
-</div>
+## 📚 Образование
 
-<h2>DevOps</h2>
+### Тюменский Государственный Университет
+**Специалитет "Компьютерная безопасность"** (2022-2028)  
+*Ключевые дисциплины:* Алгоритмы и структуры данных, Базы данных, DevOps
 
-<div align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
+**Профессиональная переподготовка:**
+- Сетевой инженер (2023-2024)
+- Специалист по анализу данных (2024)
 
+### Дополнительное образование
+- **Математика в ИИ** (Иннополис, 2024)
+- **Основы сетевых технологий** (Eltex, 2023)
 
-<h2>GitHub Stats</h2>
+## 🏅 Достижения в программировании
+
+- 🥇 Чемпионат УФО по спортивному программированию (2024)
+- 🏆 I спортивный разряд по программированию (2024)
+- 🏅 Финал ICPC Северной Евразии (2024)
+- 🥈 RUCODE (2023, диплом II степени)
+
+## 📊 GitHub статистика
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=iLoveRamona&theme=dracula&mode=weekly&card_width=350&card_height=215" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=iLoveRamona&theme=dracula&mode=weekly" width="48%">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLoveRamona&hide=jupyter%20notebook&theme=dracula&layout=donut&card_width=300" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLoveRamona&layout=compact&theme=dracula" width="48%">
 </div>
 
-Contact me: berukhov@gmail.com
+## 🔗 Ссылки
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iLoveRamona)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/yourprofile)
