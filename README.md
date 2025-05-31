@@ -3,7 +3,7 @@
 
 [![Location](https://img.shields.io/badge/Тюмень-Россия-0088CC?style=flat&logo=map-marker)](https://www.google.com/maps/place/Тюмень)
 [![Telegram](https://img.shields.io/badge/Telegram-@nikoil-0088CC?style=flat&logo=telegram)](https://t.me/nikoil)
-[![Email](https://img.shields.io/badge/berukhov@gmail.com-005FF9?style=flat&logo=gmail)](mailto:berukhov@gmail.com
+[![Email](https://img.shields.io/badge/berukhov@gmail.com-005FF9?style=flat&logo=gmail)](mailto:berukhov@gmail.com)
 
 
 ## 🛠 Технологический стек
