@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/goorm-%23000000.svg?style=for-the-badge&logo=goorm&logoColor=00FF7F" alt="Goorm" />
 </div>
 
-<h2>Database/h2>
+<h2>Database</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=for-the-badge&logo=PostgreSQL&logoColor=00ADD8" alt="Gin" />
