@@ -24,6 +24,13 @@
 **Сети:** TCP/IP, Cisco/Eltex/Huawei  
 **Другое:** Git, GNU/Linux, VMWare  
 
+## 📊 GitHub статистика
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=iLoveRamona&theme=dracula&mode=weekly" width="48%">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLoveRamona&layout=compact&theme=dracula" width="48%">
+</div>
 
 
