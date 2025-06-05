@@ -1,4 +1,3 @@
-# Никита Берюхов 
 ### Go-разработчик | SRE/DevOps инженер
 
 [![Location](https://img.shields.io/badge/Тюмень-Россия-0088CC?style=flat&logo=map-marker)](https://www.google.com/maps/place/Тюмень)
