@@ -1,36 +1,28 @@
-### 🚀 Golang Developer | DevOps Engineer
+### <span style="color:#00ADD8">Golang</span> Developer | <span style="color:#326CE5">DevOps</span>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@nikoil-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nikoil)
-[![GitHub](https://img.shields.io/badge/GitHub-iLoveRamona-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iLoveRamona)
 
-## 🔧 Technology Stack
-
-### 🏆 Core Expertise
-<div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Gin">
-  <img src="https://img.shields.io/badge/GORM-000000?style=for-the-badge&logo=go&logoColor=00ADD8" alt="GORM">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+<div align="left" style="margin:15px 0;line-height:2.5;">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Gin-FFFFFF?style=for-the-badge&logo=go&logoColor=00ADD8&color=000000">
+  <img src="https://img.shields.io/badge/GORM-FFFFFF?style=for-the-badge&logo=go&logoColor=00ADD8&color=000000">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/TCP/IP-555555?style=for-the-badge&color=FFFFFF">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
-### 🧰 Additional Skills
-**Programming:** <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">  
-**DevOps:** <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white">  
-**Networking:** <img src="https://img.shields.io/badge/TCP/IP-000000?style=flat-square"> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white">  
-**Tools:** <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white">
-
-## 📈 GitHub Stats
-
-<div align="center">
+<div align="left" style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=iLoveRamona&theme=nightowl&mode=weekly&fire=DD472B&ring=DD472B" width="48%">
+    <img src="https://streak-stats.demolab.com?user=iLoveRamona&theme=default&hide_border=true&background=FFFFFF&dates=555555&ring=00ADD8&fire=00ADD8&currStreakNum=000000&sideNums=555555&currStreakLabel=000000&sideLabels=555555" width="49%">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLoveRamona&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000" width="48%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iLoveRamona&theme=nightowl&hide_border=true&area=true" width="90%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLoveRamona&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=555555&border_radius=8" width="33%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iLoveRamona&theme=github-light&hide_border=true&bg_color=FFFFFF&color=555555&line=00ADD8&point=326CE5&area=true&area_color=00ADD833" width="100%">
 </div>
