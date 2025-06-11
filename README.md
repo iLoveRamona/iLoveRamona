@@ -1,7 +1,7 @@
 ### Go-разработчик | SRE/DevOps инженер
 
 [![Location](https://img.shields.io/badge/Тюмень-Россия-0088CC?style=flat&logo=map-marker)](https://www.google.com/maps/place/Тюмень)
-[![Telegram](https://img.shields.io/badge/Telegram-@l__palette-0088CC?style=for-the-badge&logo=telegram&logoColor=0088CC&color=white)](https://t.me/nikoil)
+[![Telegram](https://img.shields.io/badge/Telegram-@nikoil-0088CC?style=for-the-badge&logo=telegram&logoColor=0088CC&color=white)](https://t.me/nikoil)
 [![Email](https://img.shields.io/badge/berukhov@gmail.com-005FF9?style=flat&logo=gmail)](mailto:berukhov@gmail.com)
 
 
