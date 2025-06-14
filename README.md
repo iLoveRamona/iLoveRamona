@@ -23,8 +23,12 @@
 
 <div align="left" style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=iLoveRamona&theme=default&hide_border=true&background=FFFFFF&dates=555555&ring=00ADD8&fire=00ADD8&currStreakNum=000000&sideNums=555555&currStreakLabel=000000&sideLabels=555555" width="49%">
+    <img src="https://streak-stats.demolab.com?user=iLoveRamona&theme=default&hide_border=true&theme=transparent" width="49%">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLoveRamona&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=555555&border_radius=8" width="33%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iLoveRamona&theme=github-light&hide_border=true&bg_color=FFFFFF&color=555555&line=00ADD8&point=326CE5&area=true&area_color=00ADD833" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLoveRamona&layout=compact&hide_border=true&theme=transparent&border_radius=8" width="33%">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iLoveRamona&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=388BFD&area=true&area_color=0D419D">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iLoveRamona&theme=github-light&hide_border=true&bg_color=FFFFFF&color=0366D6&line=1F6FEB&point=388BFD&area=true&area_color=DBEAFE">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iLoveRamona&theme=default&hide_border=true" width="100%">
+</picture>
 </div>
