@@ -1,4 +1,4 @@
-### <span style="color:#00ADD8">Golang</span> Developer | <span style="color:#326CE5">DevOps</span>
+### <span style="color:#00ADD8">Golang</span> | С++ <span style="color:#326CE5">developer</span>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@nikoil-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nikoil)
 
@@ -6,19 +6,11 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Gin-FFFFFF?style=for-the-badge&logo=go&logoColor=00ADD8&color=000000">
   <img src="https://img.shields.io/badge/GORM-FFFFFF?style=for-the-badge&logo=go&logoColor=00ADD8&color=000000">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/TCP/IP-555555?style=for-the-badge&color=blue">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Cryptography-555555?style=for-the-badge&color=blue">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/ML-555555?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/TCP/IP-555555?style=for-the-badge&color=blue">
 </div>
 
 <div align="left" style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
